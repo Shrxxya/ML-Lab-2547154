@@ -1,0 +1,75 @@
+Feature,Mean_Absolute_SHAP
+Family_History_Flag,0.4358768
+Work_Interference_Flag,0.2527356
+care_options_Yes,0.22554262
+work_interfere_Sometimes,0.12000961
+work_interfere_Often,0.10950945
+Workplace_Support_Score,0.093326405
+family_history_No,0.08268797
+work_interfere_Never,0.05990174
+benefits_Yes,0.042399198
+Gender_Male,0.03938644
+Gender_Female,0.024758017
+anonymity_Don't know,0.020046571
+mental_health_consequence_Maybe,0.0188238
+family_history_Yes,0.016718589
+seek_help_No,0.016403252
+leave_Somewhat difficult,0.014095996
+mental_health_consequence_No,0.0108457245
+leave_Very difficult,0.010841454
+Age,0.009284818
+coworkers_No,0.007304619
+self_employed_No,0.005512749
+care_options_No,0.004954732
+anonymity_No,0.003462788
+obs_consequence_Yes,0.003084594
+phys_health_interview_No,0.0025454818
+remote_work_No,0.001757872
+remote_work_Yes,0.0017418567
+supervisor_Yes,0.0
+mental_health_interview_No,0.0
+mental_health_interview_Maybe,0.0
+no_employees_6-25,0.0
+supervisor_Some of them,0.0
+mental_health_interview_Yes,0.0
+coworkers_Yes,0.0
+coworkers_Some of them,0.0
+supervisor_No,0.0
+phys_health_interview_Yes,0.0
+phys_health_interview_Maybe,0.0
+phys_health_consequence_No,0.0
+mental_vs_physical_Don't know,0.0
+mental_vs_physical_No,0.0
+mental_vs_physical_Yes,0.0
+obs_consequence_No,0.0
+Age_Group_18-24,0.0
+Age_Group_25-34,0.0
+Age_Group_35-44,0.0
+Age_Group_45-54,0.0
+Age_Group_55+,0.0
+phys_health_consequence_Yes,0.0
+Gender_Other,0.0
+phys_health_consequence_Maybe,0.0
+mental_health_consequence_Yes,0.0
+tech_company_No,0.0
+tech_company_Yes,0.0
+benefits_Don't know,0.0
+benefits_No,0.0
+no_employees_500-1000,0.0
+care_options_Not sure,0.0
+no_employees_26-100,0.0
+wellness_program_Don't know,0.0
+wellness_program_No,0.0
+wellness_program_Yes,0.0
+seek_help_Don't know,0.0
+no_employees_100-500,0.0
+seek_help_Yes,0.0
+no_employees_1-5,0.0
+anonymity_Yes,0.0
+leave_Don't know,0.0
+work_interfere_Rarely,0.0
+leave_Somewhat easy,0.0
+self_employed_Yes,0.0
+leave_Very easy,0.0
+no_employees_More than 1000,0.0
+Age_Group_Unknown,0.0

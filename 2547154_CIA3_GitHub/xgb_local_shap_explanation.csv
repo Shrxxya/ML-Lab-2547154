@@ -1,0 +1,75 @@
+Feature,SHAP_Value,Absolute_SHAP,Effect
+work_interfere_Often,0.41354588,0.41354588,Increases treatment prediction
+Family_History_Flag,0.35493296,0.35493296,Increases treatment prediction
+care_options_Yes,0.2956033,0.2956033,Increases treatment prediction
+work_interfere_Sometimes,0.21537523,0.21537523,Increases treatment prediction
+Work_Interference_Flag,0.16250175,0.16250175,Increases treatment prediction
+Workplace_Support_Score,0.110997744,0.110997744,Increases treatment prediction
+Gender_Female,0.0905586,0.0905586,Increases treatment prediction
+benefits_Yes,0.08654396,0.08654396,Increases treatment prediction
+family_history_No,0.07706546,0.07706546,Increases treatment prediction
+Gender_Male,0.070561476,0.070561476,Increases treatment prediction
+work_interfere_Never,0.041626118,0.041626118,Increases treatment prediction
+anonymity_Don't know,-0.030561328,0.030561328,Decreases treatment prediction
+mental_health_consequence_No,-0.02925213,0.02925213,Decreases treatment prediction
+care_options_No,0.026628438,0.026628438,Increases treatment prediction
+anonymity_No,0.013686761,0.013686761,Increases treatment prediction
+family_history_Yes,0.0101165,0.0101165,Increases treatment prediction
+coworkers_No,0.008827206,0.008827206,Increases treatment prediction
+remote_work_No,-0.008481193,0.008481193,Decreases treatment prediction
+remote_work_Yes,-0.008415917,0.008415917,Decreases treatment prediction
+mental_health_consequence_Maybe,-0.006878887,0.006878887,Decreases treatment prediction
+seek_help_No,0.006097587,0.006097587,Increases treatment prediction
+self_employed_No,0.005859616,0.005859616,Increases treatment prediction
+leave_Somewhat difficult,-0.0037961625,0.0037961625,Decreases treatment prediction
+leave_Very difficult,-0.003386283,0.003386283,Decreases treatment prediction
+Age,-0.0021890248,0.0021890248,Decreases treatment prediction
+phys_health_interview_No,-0.0010021218,0.0010021218,Decreases treatment prediction
+obs_consequence_Yes,-0.00072249235,0.00072249235,Decreases treatment prediction
+benefits_Don't know,0.0,0.0,Decreases treatment prediction
+coworkers_Some of them,0.0,0.0,Decreases treatment prediction
+coworkers_Yes,0.0,0.0,Decreases treatment prediction
+supervisor_No,0.0,0.0,Decreases treatment prediction
+supervisor_Some of them,0.0,0.0,Decreases treatment prediction
+supervisor_Yes,0.0,0.0,Decreases treatment prediction
+mental_health_interview_Maybe,0.0,0.0,Decreases treatment prediction
+mental_health_interview_No,0.0,0.0,Decreases treatment prediction
+mental_health_interview_Yes,0.0,0.0,Decreases treatment prediction
+phys_health_interview_Maybe,0.0,0.0,Decreases treatment prediction
+phys_health_interview_Yes,0.0,0.0,Decreases treatment prediction
+phys_health_consequence_Yes,0.0,0.0,Decreases treatment prediction
+mental_vs_physical_Don't know,0.0,0.0,Decreases treatment prediction
+mental_vs_physical_No,0.0,0.0,Decreases treatment prediction
+mental_vs_physical_Yes,0.0,0.0,Decreases treatment prediction
+obs_consequence_No,0.0,0.0,Decreases treatment prediction
+Age_Group_18-24,0.0,0.0,Decreases treatment prediction
+Age_Group_25-34,0.0,0.0,Decreases treatment prediction
+Age_Group_35-44,0.0,0.0,Decreases treatment prediction
+Age_Group_45-54,0.0,0.0,Decreases treatment prediction
+Age_Group_55+,0.0,0.0,Decreases treatment prediction
+Gender_Other,0.0,0.0,Decreases treatment prediction
+phys_health_consequence_No,0.0,0.0,Decreases treatment prediction
+benefits_No,0.0,0.0,Decreases treatment prediction
+phys_health_consequence_Maybe,0.0,0.0,Decreases treatment prediction
+tech_company_Yes,0.0,0.0,Decreases treatment prediction
+tech_company_No,0.0,0.0,Decreases treatment prediction
+care_options_Not sure,0.0,0.0,Decreases treatment prediction
+no_employees_More than 1000,0.0,0.0,Decreases treatment prediction
+wellness_program_Don't know,0.0,0.0,Decreases treatment prediction
+wellness_program_No,0.0,0.0,Decreases treatment prediction
+wellness_program_Yes,0.0,0.0,Decreases treatment prediction
+seek_help_Don't know,0.0,0.0,Decreases treatment prediction
+no_employees_6-25,0.0,0.0,Decreases treatment prediction
+seek_help_Yes,0.0,0.0,Decreases treatment prediction
+no_employees_500-1000,0.0,0.0,Decreases treatment prediction
+no_employees_26-100,0.0,0.0,Decreases treatment prediction
+anonymity_Yes,0.0,0.0,Decreases treatment prediction
+leave_Don't know,0.0,0.0,Decreases treatment prediction
+no_employees_100-500,0.0,0.0,Decreases treatment prediction
+leave_Somewhat easy,0.0,0.0,Decreases treatment prediction
+no_employees_1-5,0.0,0.0,Decreases treatment prediction
+leave_Very easy,0.0,0.0,Decreases treatment prediction
+work_interfere_Rarely,0.0,0.0,Decreases treatment prediction
+self_employed_Yes,0.0,0.0,Decreases treatment prediction
+mental_health_consequence_Yes,0.0,0.0,Decreases treatment prediction
+Age_Group_Unknown,0.0,0.0,Decreases treatment prediction
